@@ -1,0 +1,14 @@
+/* css/styles.css */
+*{box-sizing:border-box;font-family:Arial,Helvetica,sans-serif}
+body{margin:0;background:#f2f2f2;color:#222}
+.header{background:#5C3028;color:#fff;padding:16px}
+.container{max-width:960px;margin:20px auto;padding:18px;background:#fff;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,.06)}
+.menu-table{width:100%;border-collapse:collapse}
+.menu-table th,.menu-table td{padding:10px;border:1px solid #eaeaea}
+.menu-table th{background:#fafafa}
+.form-row{display:flex;gap:10px;align-items:center;margin-bottom:8px}
+.input,select{padding:8px;border:1px solid #ddd;border-radius:6px}
+.button{display:inline-block;padding:8px 12px;background:#5C3028;color:#fff;text-decoration:none;border-radius:6px;border:none;cursor:pointer}
+.note{color:#666;font-size:14px;margin-top:8px}
+.small{font-size:13px;color:#555}
+.center{text-align:center}
